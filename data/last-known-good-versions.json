@@ -1,25 +1,25 @@
 {
-	"timestamp": "2024-06-04T20:09:31.498Z",
+	"timestamp": "2024-07-01T20:09:16.465Z",
 	"channels": {
 		"Stable": {
 			"channel": "Stable",
-			"version": "125.0.6422.141",
-			"revision": "1287751"
+			"version": "126.0.6478.126",
+			"revision": "1300313"
 		},
 		"Beta": {
 			"channel": "Beta",
-			"version": "126.0.6478.26",
-			"revision": "1300313"
+			"version": "127.0.6533.26",
+			"revision": "1313161"
 		},
 		"Dev": {
 			"channel": "Dev",
-			"version": "127.0.6510.4",
-			"revision": "1307830"
+			"version": "128.0.6559.0",
+			"revision": "1319638"
 		},
 		"Canary": {
 			"channel": "Canary",
-			"version": "127.0.6520.0",
-			"revision": "1309880"
+			"version": "128.0.6570.0",
+			"revision": "1321654"
 		}
 	}
 }
